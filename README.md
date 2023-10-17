@@ -9,7 +9,10 @@
 
 ## Penjelasan
 
-1. Dimas
+1. Yudhistira akan digunakan sebagai DNS Master, Werkudara sebagai DNS Slave, Arjuna merupakan Load Balancer yang terdiri dari beberapa Web Server yaitu Prabakusuma, Abimanyu, dan Wisanggeni. Buatlah topologi dengan pembagian sebagai berikut. Folder topologi dapat diakses pada drive berikut
+
+Pertama, buat topologi sesuai yang diminta pada soal.
+![1a](assets/1a.png)
 
 2. Dimas
 
