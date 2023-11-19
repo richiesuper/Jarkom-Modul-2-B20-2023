@@ -1,4 +1,4 @@
-# Jarkom-Modul-1-B20-2023
+# Jarkom-Modul-2-B20-2023
 
 ## Informasi Kelompok
 
